@@ -1,2 +1,4 @@
 # Git_Learn
-Basically, something to do.....:)
+Basically, learning git & github...
+<br>
+Author: IA
