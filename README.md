@@ -19,6 +19,7 @@ Author: IA
 <br>
 ->Commit...: It is the record of changes: (git commit -m "meaningful name")
 <br>
+->Push....: Pushing local workplace changing to github_repository: (git push origin main)
 <br>
 <br>
 <br>
