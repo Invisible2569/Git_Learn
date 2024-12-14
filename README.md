@@ -19,7 +19,8 @@ Author: IA
 <br>
 ->Commit...: It is the record of changes: (git commit -m "meaningful name")
 <br>
-->Push....: Pushing local workplace changing to github_repository: (git push origin main)
+->Push....: Pushing local workplace changing to github_repository: (git push origin main)---{I declare "origin" for giving coping_repository name}
 <br>
+->Help..: for getting help: (git --help)
 <br>
 <br>
